@@ -60,7 +60,7 @@ SECRET_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 streamlit run app_API.py
 ```
 
-2.The web app will open in your browser where you can upload the Image - It will caption/describe the Image
+2.The web app will open in your browser where you can enter the texts - It will find the Similarity
 
 ## Contribution
 
